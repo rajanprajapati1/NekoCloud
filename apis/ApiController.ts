@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'https://consumet-api-fork-three.vercel.app'; // Base URL for the API
+const BASE_URL = ''; // Base URL for the API
 
 // Create a new Axios instance with common configuration
 const api = axios.create({
